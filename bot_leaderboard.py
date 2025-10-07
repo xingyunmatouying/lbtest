@@ -69,7 +69,7 @@ def get_available_bots():
             for bot in f.readlines():
                 available_bots.append(bot.strip())
             available_bots = sorted(available_bots)
-        with urllib.request.urlopen('https://lichess.org/api/bot/online') as online_bots:
+        with urllib.request.urlopen('https://lichess.org/api/team/lucky_0wls-bots/users') as online_bots:
             for i in online_bots:
                 d = orjson.loads(i)
                 if d['id'] not in available_bots:
@@ -80,7 +80,9 @@ def get_available_bots():
     with open('available_bots.txt', 'w') as f:
         for bot in available_bots:
             f.write(bot + '\n')
-    print("Updated List of Bots")
+    print("Updated List of Bots")\
+
+    
 
 
 def get_all_bot_ratings():
@@ -192,3 +194,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
