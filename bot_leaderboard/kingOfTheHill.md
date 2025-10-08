@@ -1,17 +1,2 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@TacticalBot|2405
-#2|@PINEAPPLEMASK|2355
-#3|@ElPeonElectrico|2323
-#4|@Speeedrunchessgames|2321
-#5|@GoblinAjedrezAI|2320
-#6|@CourageousCheckmate7|2303
-#7|@DarkOnBot|2252
-#8|@tbhOnBot|2233
-#9|@RaspFish|2193
-#10|@VEER-OMEGA-BOT|2169
-#11|@InvinxibleFlxsh|2126
-#12|@virus_exe-bot|2013
-#13|@Groot123456|1559
-#14|@DavidsGuterBot|1501
-#15|@pawnrobot|1195

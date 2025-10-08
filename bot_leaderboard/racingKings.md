@@ -1,16 +1,2 @@
 Rank|Bot|Rating
 ---|---|---
-#1|@ToromBot|2549
-#2|@Speeedrunchessgames|2517
-#3|@tbhOnBot|2510
-#4|@CourageousCheckmate7|2503
-#5|@MaggiChess16|2502
-#6|@Ghost_HunteR2998|2500
-#7|@ElPeonElectrico|2495
-#8|@RaspFish|2494
-#9|@PINEAPPLEMASK|2493
-#10|@DarkOnBot|2483
-#11|@TacticalBot|2482
-#12|@VEER-OMEGA-BOT|2477
-#13|@InvinxibleFlxsh|2476
-#14|@is_BOSS|2131
